@@ -1,5 +1,6 @@
 # OpenCraft
 
+NOTE: This is not my code, I just duplicated it so I could make a github.io page for it. All credit goes to bufferhead-code, the OP, whose project you can find [here](https://github.com/bufferhead-code/opencraft)
 OpenCraft is an open source implementation of the popular game InfiniteCraft. 
 
 **You can learn more about how it works and how i made it [here](http://www.youtube.com/watch?v=aqrPOPq1kP0)**
